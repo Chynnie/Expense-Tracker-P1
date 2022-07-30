@@ -2,7 +2,7 @@
 
 This project is an Expense Tracker calculator that calculates a person's income and expenses.
 
-This project was built using React functional components and hooks such as useState, useReducer and useContext
+This project was built using React functional components and hooks such as useState, useReducer and useContext.
 
 # Getting Started with Create React App
 
